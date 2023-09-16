@@ -6,10 +6,8 @@ Quickly get the current URL or route in Next.js client & server environments ✨
 
 ### Next.js client component
 
-`nextjs-current-url` has a `useUrl` hook that quickly gives you the current URL in a browser-rendered component.
-It returns a [`URL`](https://developer.mozilla.org/en-US/docs/Web/API/URL) object.
-`URL` let's you easily access specific parts of the URL.
-`useUrl` works in both pages and app router.
+`nextjs-current-url` has a `useUrl` hook that quickly gives you the <a href="https://codingbeautydev.com/blog/nextjs-get-current-url" target="_blank">current URL</a> in a browser-rendered component.
+It returns a `URL` object that let's you easily access specific parts of the URL, and works in both Pages and App Router.
 
 Example:
 
